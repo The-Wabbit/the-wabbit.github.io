@@ -1,17 +1,17 @@
-title: John Smith
+title: Radu Epure
 description: My Personal Blog
-author: John Smith
+author: Radu Epure
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/the-wabbit
+about: DevOps
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: the-wabb-it
+google_analytics: UA-122941221-1
 
 share:
   twitter_username: \#
