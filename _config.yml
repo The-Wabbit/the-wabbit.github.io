@@ -8,7 +8,7 @@ about: DevOps
 baseurl: "/"
 url: "blog.the-wabb.it"
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: the-wabb-it
 google_analytics: UA-122941221-1
