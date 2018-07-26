@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/the-wabbit
 about: DevOps
 
-baseurl: ""
-url: ""
+baseurl: "/"
+url: "blog.the-wabb.it"
 
 allowsearch: true
 
